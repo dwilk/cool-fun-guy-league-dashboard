@@ -3,10 +3,7 @@
 import { useState, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 
-// Force dynamic rendering
-export const dynamic = 'force-dynamic';
-
-export default function LoginPage() {
+function LoginForm() {
   const [password, setPassword] = useState('');
   const [error, setError] = useState('');
   const [isLoading, setIsLoading] = useState(false);
@@ -41,28 +38,8 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center px-4">
-      {/* Background gradient */}
-      <div className="absolute inset-0 bg-gradient-to-br from-dynasty-bg via-dynasty-card to-dynasty-bg" />
-      <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-dynasty-accent/10 via-transparent to-transparent" />
-      
-      <div className="relative w-full max-w-md">
-        {/* Logo/Title */}
-        <div className="text-center mb-8">
-          <div className="inline-block mb-4">
-            <div className="w-20 h-20 rounded-full bg-gradient-to-br from-dynasty-accent to-dynasty-gold flex items-center justify-center mx-auto shadow-lg shadow-dynasty-accent/20">
-              <span className="text-3xl font-bold text-dynasty-bg">CFG</span>
-            </div>
-          </div>
-          <h1 className="text-3xl font-heading font-bold text-white mb-2">
-            Cool Fun Guy League
-          </h1>
-          <p className="text-dynasty-silver">Dynasty Fantasy Football</p>
-        </div>
-
-        {/* Login Card */}
-        <div className="bg-dynasty-card border border-dynasty-border rounded-2xl p-8 shadow-xl">
-          <form onSubmit={handleSubmit} className="space-y-6">
+    <div className="bg-dynasty-card border border-dynasty-border rounded-2xl p-8 shadow-xl">
+      <form onSubmit={handleSubmit} className="space-y-6">
             <div>
               <label htmlFor="password" className="block text-sm font-medium text-dynasty-silver mb-2">
                 League Password
@@ -104,6 +81,38 @@ export default function LoginPage() {
             </button>
           </form>
         </div>
+  );
+}
+
+export default function LoginPage() {
+  return (
+    <div className="min-h-screen flex items-center justify-center px-4">
+      {/* Background gradient */}
+      <div className="absolute inset-0 bg-gradient-to-br from-dynasty-bg via-dynasty-card to-dynasty-bg" />
+      <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-dynasty-accent/10 via-transparent to-transparent" />
+      
+      <div className="relative w-full max-w-md">
+        {/* Logo/Title */}
+        <div className="text-center mb-8">
+          <div className="inline-block mb-4">
+            <div className="w-20 h-20 rounded-full bg-gradient-to-br from-dynasty-accent to-dynasty-gold flex items-center justify-center mx-auto shadow-lg shadow-dynasty-accent/20">
+              <span className="text-3xl font-bold text-dynasty-bg">CFG</span>
+            </div>
+          </div>
+          <h1 className="text-3xl font-heading font-bold text-white mb-2">
+            Cool Fun Guy League
+          </h1>
+          <p className="text-dynasty-silver">Dynasty Fantasy Football</p>
+        </div>
+
+        {/* Login Card wrapped in Suspense */}
+        <Suspense fallback={
+          <div className="bg-dynasty-card border border-dynasty-border rounded-2xl p-8 shadow-xl">
+            <div className="text-center text-dynasty-silver">Loading...</div>
+          </div>
+        }>
+          <LoginForm />
+        </Suspense>
 
         <p className="text-center text-dynasty-silver/60 text-sm mt-6">
           Contact your commissioner for access
