@@ -1,0 +1,2662 @@
+{
+  "season": "2025",
+  "lastUpdated": "2025-11-25",
+  "contracts": {
+    "96": {
+      "playerId": "96",
+      "playerName": "Aaron Rodgers",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 6
+    },
+    "421": {
+      "playerId": "421",
+      "playerName": "Matthew Stafford",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 9
+    },
+    "1339": {
+      "playerId": "1339",
+      "playerName": "Zach Ertz",
+      "salary": 2,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 5
+    },
+    "1373": {
+      "playerId": "1373",
+      "playerName": "Geno Smith",
+      "salary": 10,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "1426": {
+      "playerId": "1426",
+      "playerName": "DeAndre Hopkins",
+      "salary": 3,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 9
+    },
+    "1433": {
+      "playerId": "1433",
+      "playerName": "Brandon McManus",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "1466": {
+      "playerId": "1466",
+      "playerName": "Travis Kelce",
+      "salary": 42,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 9
+    },
+    "1689": {
+      "playerId": "1689",
+      "playerName": "Adam Thielen",
+      "salary": 8,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "1945": {
+      "playerId": "1945",
+      "playerName": "Chris Boswell",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 5
+    },
+    "2133": {
+      "playerId": "2133",
+      "playerName": "Davante Adams",
+      "salary": 21,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "2216": {
+      "playerId": "2216",
+      "playerName": "Mike Evans",
+      "salary": 30,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 1
+    },
+    "2374": {
+      "playerId": "2374",
+      "playerName": "Tyler Lockett",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 1
+    },
+    "2449": {
+      "playerId": "2449",
+      "playerName": "Stefon Diggs",
+      "salary": 30,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 3
+    },
+    "2505": {
+      "playerId": "2505",
+      "playerName": "Darren Waller",
+      "salary": 6,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "2749": {
+      "playerId": "2749",
+      "playerName": "Raheem Mostert",
+      "salary": 6,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 1
+    },
+    "3163": {
+      "playerId": "3163",
+      "playerName": "Jared Goff",
+      "salary": 38,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 3
+    },
+    "3198": {
+      "playerId": "3198",
+      "playerName": "Derrick Henry",
+      "salary": 56,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "3214": {
+      "playerId": "3214",
+      "playerName": "Hunter Henry",
+      "salary": 2,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "3225": {
+      "playerId": "3225",
+      "playerName": "Tyler Boyd",
+      "salary": 5,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "3271": {
+      "playerId": "3271",
+      "playerName": "Tyler Higbee",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 14
+    },
+    "3294": {
+      "playerId": "3294",
+      "playerName": "Dak Prescott",
+      "salary": 10,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "3321": {
+      "playerId": "3321",
+      "playerName": "Tyreek Hill",
+      "salary": 56,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 6
+    },
+    "3451": {
+      "playerId": "3451",
+      "playerName": "Ka'imi Fairbairn",
+      "salary": 2,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "3678": {
+      "playerId": "3678",
+      "playerName": "Wil Lutz",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "4018": {
+      "playerId": "4018",
+      "playerName": "Joe Mixon",
+      "salary": 25,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "4033": {
+      "playerId": "4033",
+      "playerName": "David Njoku",
+      "salary": 12,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 14
+    },
+    "4034": {
+      "playerId": "4034",
+      "playerName": "Christian McCaffrey",
+      "salary": 43,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 6
+    },
+    "4035": {
+      "playerId": "4035",
+      "playerName": "Alvin Kamara",
+      "salary": 57,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 3
+    },
+    "4037": {
+      "playerId": "4037",
+      "playerName": "Chris Godwin",
+      "salary": 16,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "4039": {
+      "playerId": "4039",
+      "playerName": "Cooper Kupp",
+      "salary": 40,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "4046": {
+      "playerId": "4046",
+      "playerName": "Patrick Mahomes",
+      "salary": 42,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 1
+    },
+    "4066": {
+      "playerId": "4066",
+      "playerName": "Evan Engram",
+      "salary": 21,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "4098": {
+      "playerId": "4098",
+      "playerName": "Kareem Hunt",
+      "salary": 4,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "4137": {
+      "playerId": "4137",
+      "playerName": "James Conner",
+      "salary": 19,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "4144": {
+      "playerId": "4144",
+      "playerName": "Jonnu Smith",
+      "salary": 6,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "4199": {
+      "playerId": "4199",
+      "playerName": "Aaron Jones",
+      "salary": 34,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 10
+    },
+    "4217": {
+      "playerId": "4217",
+      "playerName": "George Kittle",
+      "salary": 28,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 3
+    },
+    "4227": {
+      "playerId": "4227",
+      "playerName": "Harrison Butker",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 3
+    },
+    "4663": {
+      "playerId": "4663",
+      "playerName": "Austin Ekeler",
+      "salary": 24,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 14
+    },
+    "4666": {
+      "playerId": "4666",
+      "playerName": "Younghoe Koo",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "4866": {
+      "playerId": "4866",
+      "playerName": "Saquon Barkley",
+      "salary": 45,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "4881": {
+      "playerId": "4881",
+      "playerName": "Lamar Jackson",
+      "salary": 26,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "4892": {
+      "playerId": "4892",
+      "playerName": "Baker Mayfield",
+      "salary": 17,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "4943": {
+      "playerId": "4943",
+      "playerName": "Sam Darnold",
+      "salary": 3,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "4950": {
+      "playerId": "4950",
+      "playerName": "Christian Kirk",
+      "salary": 34,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 10
+    },
+    "4981": {
+      "playerId": "4981",
+      "playerName": "Calvin Ridley",
+      "salary": 17,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "4983": {
+      "playerId": "4983",
+      "playerName": "DJ Moore",
+      "salary": 20,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 1
+    },
+    "4984": {
+      "playerId": "4984",
+      "playerName": "Josh Allen",
+      "salary": 50,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "4988": {
+      "playerId": "4988",
+      "playerName": "Nick Chubb",
+      "salary": 24,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 1
+    },
+    "4993": {
+      "playerId": "4993",
+      "playerName": "Mike Gesicki",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 10
+    },
+    "5001": {
+      "playerId": "5001",
+      "playerName": "Dalton Schultz",
+      "salary": 3,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "5012": {
+      "playerId": "5012",
+      "playerName": "Mark Andrews",
+      "salary": 21,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "5022": {
+      "playerId": "5022",
+      "playerName": "Dallas Goedert",
+      "salary": 12,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 5
+    },
+    "5045": {
+      "playerId": "5045",
+      "playerName": "Courtland Sutton",
+      "salary": 24,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "5095": {
+      "playerId": "5095",
+      "playerName": "Daniel Carlson",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "5844": {
+      "playerId": "5844",
+      "playerName": "T.J. Hockenson",
+      "salary": 3,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 14
+    },
+    "5846": {
+      "playerId": "5846",
+      "playerName": "DK Metcalf",
+      "salary": 25,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "5848": {
+      "playerId": "5848",
+      "playerName": "Hollywood Brown",
+      "salary": 30,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 5
+    },
+    "5849": {
+      "playerId": "5849",
+      "playerName": "Kyler Murray",
+      "salary": 30,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "5850": {
+      "playerId": "5850",
+      "playerName": "Josh Jacobs",
+      "salary": 35,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 14
+    },
+    "5857": {
+      "playerId": "5857",
+      "playerName": "Noah Fant",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 10
+    },
+    "5859": {
+      "playerId": "5859",
+      "playerName": "A.J. Brown",
+      "salary": 36,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 6
+    },
+    "5872": {
+      "playerId": "5872",
+      "playerName": "Deebo Samuel",
+      "salary": 31,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "5892": {
+      "playerId": "5892",
+      "playerName": "David Montgomery",
+      "salary": 21,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 1
+    },
+    "5927": {
+      "playerId": "5927",
+      "playerName": "Terry McLaurin",
+      "salary": 42,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "5947": {
+      "playerId": "5947",
+      "playerName": "Jakobi Meyers",
+      "salary": 7,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "5967": {
+      "playerId": "5967",
+      "playerName": "Tony Pollard",
+      "salary": 26,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "5987": {
+      "playerId": "5987",
+      "playerName": "Alexander Mattison",
+      "salary": 7,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "5995": {
+      "playerId": "5995",
+      "playerName": "Justice Hill",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "6083": {
+      "playerId": "6083",
+      "playerName": "Matt Gay",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 14
+    },
+    "6130": {
+      "playerId": "6130",
+      "playerName": "Devin Singletary",
+      "salary": 13,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "6149": {
+      "playerId": "6149",
+      "playerName": "Darius Slayton",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 9
+    },
+    "6650": {
+      "playerId": "6650",
+      "playerName": "Chase McLaughlin",
+      "salary": 5,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "6770": {
+      "playerId": "6770",
+      "playerName": "Joe Burrow",
+      "salary": 13,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 14
+    },
+    "6783": {
+      "playerId": "6783",
+      "playerName": "Jerry Jeudy",
+      "salary": 12,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 5
+    },
+    "6786": {
+      "playerId": "6786",
+      "playerName": "CeeDee Lamb",
+      "salary": 50,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 9
+    },
+    "6790": {
+      "playerId": "6790",
+      "playerName": "D'Andre Swift",
+      "salary": 18,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "6794": {
+      "playerId": "6794",
+      "playerName": "Justin Jefferson",
+      "salary": 52,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "auction",
+      "rosterId": 14
+    },
+    "6797": {
+      "playerId": "6797",
+      "playerName": "Justin Herbert",
+      "salary": 26,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 9
+    },
+    "6801": {
+      "playerId": "6801",
+      "playerName": "Tee Higgins",
+      "salary": 29,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "6803": {
+      "playerId": "6803",
+      "playerName": "Brandon Aiyuk",
+      "salary": 25,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 14
+    },
+    "6804": {
+      "playerId": "6804",
+      "playerName": "Jordan Love",
+      "salary": 10,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "6806": {
+      "playerId": "6806",
+      "playerName": "J.K. Dobbins",
+      "salary": 2,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 6
+    },
+    "6813": {
+      "playerId": "6813",
+      "playerName": "Jonathan Taylor",
+      "salary": 72,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "6819": {
+      "playerId": "6819",
+      "playerName": "Michael Pittman",
+      "salary": 14,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "6826": {
+      "playerId": "6826",
+      "playerName": "Cole Kmet",
+      "salary": 3,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "6904": {
+      "playerId": "6904",
+      "playerName": "Jalen Hurts",
+      "salary": 42,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 5
+    },
+    "7002": {
+      "playerId": "7002",
+      "playerName": "Juwan Johnson",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "7021": {
+      "playerId": "7021",
+      "playerName": "Rico Dowdle",
+      "salary": 5,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "7042": {
+      "playerId": "7042",
+      "playerName": "Tyler Bass",
+      "salary": 2,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 1
+    },
+    "7049": {
+      "playerId": "7049",
+      "playerName": "Jauan Jennings",
+      "salary": 15,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "auction",
+      "rosterId": 9
+    },
+    "7090": {
+      "playerId": "7090",
+      "playerName": "Darnell Mooney",
+      "salary": 31,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 5
+    },
+    "7523": {
+      "playerId": "7523",
+      "playerName": "Trevor Lawrence",
+      "salary": 6,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 10
+    },
+    "7525": {
+      "playerId": "7525",
+      "playerName": "DeVonta Smith",
+      "salary": 8,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "7526": {
+      "playerId": "7526",
+      "playerName": "Jaylen Waddle",
+      "salary": 4,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 6
+    },
+    "7528": {
+      "playerId": "7528",
+      "playerName": "Najee Harris",
+      "salary": 19,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "7543": {
+      "playerId": "7543",
+      "playerName": "Travis Etienne",
+      "salary": 14,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 6
+    },
+    "7547": {
+      "playerId": "7547",
+      "playerName": "Amon-Ra St. Brown",
+      "salary": 45,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 10
+    },
+    "7553": {
+      "playerId": "7553",
+      "playerName": "Kyle Pitts",
+      "salary": 30,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "7561": {
+      "playerId": "7561",
+      "playerName": "Elijah Mitchell",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 10
+    },
+    "7562": {
+      "playerId": "7562",
+      "playerName": "Tutu Atwell",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "7564": {
+      "playerId": "7564",
+      "playerName": "Ja'Marr Chase",
+      "salary": 22,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "7569": {
+      "playerId": "7569",
+      "playerName": "Nico Collins",
+      "salary": 4,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "7571": {
+      "playerId": "7571",
+      "playerName": "Rashod Bateman",
+      "salary": 31,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "7587": {
+      "playerId": "7587",
+      "playerName": "Dyami Brown",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "7588": {
+      "playerId": "7588",
+      "playerName": "Javonte Williams",
+      "salary": 22,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "7591": {
+      "playerId": "7591",
+      "playerName": "Justin Fields",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "7594": {
+      "playerId": "7594",
+      "playerName": "Chuba Hubbard",
+      "salary": 15,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 5
+    },
+    "7596": {
+      "playerId": "7596",
+      "playerName": "Elijah Moore",
+      "salary": 2,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 10
+    },
+    "7600": {
+      "playerId": "7600",
+      "playerName": "Pat Freiermuth",
+      "salary": 6,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 9
+    },
+    "7601": {
+      "playerId": "7601",
+      "playerName": "Rondale Moore",
+      "salary": 2,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "7611": {
+      "playerId": "7611",
+      "playerName": "Rhamondre Stevenson",
+      "salary": 2,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 9
+    },
+    "7670": {
+      "playerId": "7670",
+      "playerName": "Joshua Palmer",
+      "salary": 7,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 14
+    },
+    "7828": {
+      "playerId": "7828",
+      "playerName": "Noah Gray",
+      "salary": 2,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "8110": {
+      "playerId": "8110",
+      "playerName": "Jake Ferguson",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 1
+    },
+    "8111": {
+      "playerId": "8111",
+      "playerName": "Cade Otton",
+      "salary": 15,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "8112": {
+      "playerId": "8112",
+      "playerName": "Drake London",
+      "salary": 27,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "8121": {
+      "playerId": "8121",
+      "playerName": "Romeo Doubs",
+      "salary": 10,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "8125": {
+      "playerId": "8125",
+      "playerName": "Calvin Austin",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "8126": {
+      "playerId": "8126",
+      "playerName": "Wan'Dale Robinson",
+      "salary": 3,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "auction",
+      "rosterId": 6
+    },
+    "8129": {
+      "playerId": "8129",
+      "playerName": "Dameon Pierce",
+      "salary": 3,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "8130": {
+      "playerId": "8130",
+      "playerName": "Trey McBride",
+      "salary": 25,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "8132": {
+      "playerId": "8132",
+      "playerName": "Tyler Allgeier",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 11
+    },
+    "8134": {
+      "playerId": "8134",
+      "playerName": "Khalil Shakir",
+      "salary": 14,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "8136": {
+      "playerId": "8136",
+      "playerName": "Rachaad White",
+      "salary": 28,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 5
+    },
+    "8137": {
+      "playerId": "8137",
+      "playerName": "George Pickens",
+      "salary": 16,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "8138": {
+      "playerId": "8138",
+      "playerName": "James Cook",
+      "salary": 27,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "auction",
+      "rosterId": 14
+    },
+    "8142": {
+      "playerId": "8142",
+      "playerName": "Alec Pierce",
+      "salary": 6,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 5
+    },
+    "8144": {
+      "playerId": "8144",
+      "playerName": "Chris Olave",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 3
+    },
+    "8146": {
+      "playerId": "8146",
+      "playerName": "Garrett Wilson",
+      "salary": 24,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 10
+    },
+    "8148": {
+      "playerId": "8148",
+      "playerName": "Jameson Williams",
+      "salary": 20,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "8150": {
+      "playerId": "8150",
+      "playerName": "Kyren Williams",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 6
+    },
+    "8151": {
+      "playerId": "8151",
+      "playerName": "Kenneth Walker",
+      "salary": 24,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "8154": {
+      "playerId": "8154",
+      "playerName": "Brian Robinson",
+      "salary": 25,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 1
+    },
+    "8155": {
+      "playerId": "8155",
+      "playerName": "Breece Hall",
+      "salary": 25,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "auction",
+      "rosterId": 9
+    },
+    "8167": {
+      "playerId": "8167",
+      "playerName": "Christian Watson",
+      "salary": 3,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 1
+    },
+    "8180": {
+      "playerId": "8180",
+      "playerName": "Jalen Nailor",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 3
+    },
+    "8183": {
+      "playerId": "8183",
+      "playerName": "Brock Purdy",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 10
+    },
+    "8205": {
+      "playerId": "8205",
+      "playerName": "Isiah Pacheco",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 3
+    },
+    "8210": {
+      "playerId": "8210",
+      "playerName": "Chig Okonkwo",
+      "salary": 6,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "8228": {
+      "playerId": "8228",
+      "playerName": "Jaylen Warren",
+      "salary": 12,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "8259": {
+      "playerId": "8259",
+      "playerName": "Cameron Dicker",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 11
+    },
+    "8408": {
+      "playerId": "8408",
+      "playerName": "Jordan Mason",
+      "salary": 28,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "8676": {
+      "playerId": "8676",
+      "playerName": "Rashid Shaheed",
+      "salary": 6,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "9221": {
+      "playerId": "9221",
+      "playerName": "Jahmyr Gibbs",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "9224": {
+      "playerId": "9224",
+      "playerName": "Chase Brown",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "9225": {
+      "playerId": "9225",
+      "playerName": "Tank Bigsby",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "9226": {
+      "playerId": "9226",
+      "playerName": "De'Von Achane",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "9228": {
+      "playerId": "9228",
+      "playerName": "Bryce Young",
+      "salary": 13,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "9480": {
+      "playerId": "9480",
+      "playerName": "Brenton Strange",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 6
+    },
+    "9484": {
+      "playerId": "9484",
+      "playerName": "Tucker Kraft",
+      "salary": 3,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "9488": {
+      "playerId": "9488",
+      "playerName": "Jaxon Smith-Njigba",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 10
+    },
+    "9493": {
+      "playerId": "9493",
+      "playerName": "Puka Nacua",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 5
+    },
+    "9494": {
+      "playerId": "9494",
+      "playerName": "Marvin Mims",
+      "salary": 31,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "9500": {
+      "playerId": "9500",
+      "playerName": "Josh Downs",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "9501": {
+      "playerId": "9501",
+      "playerName": "DeMario Douglas",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "9502": {
+      "playerId": "9502",
+      "playerName": "Tank Dell",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "9504": {
+      "playerId": "9504",
+      "playerName": "Kayshon Boutte",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 14
+    },
+    "9508": {
+      "playerId": "9508",
+      "playerName": "Tyjae Spears",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "9509": {
+      "playerId": "9509",
+      "playerName": "Bijan Robinson",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "9511": {
+      "playerId": "9511",
+      "playerName": "Keaton Mitchell",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 7
+    },
+    "9753": {
+      "playerId": "9753",
+      "playerName": "Zach Charbonnet",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 9
+    },
+    "9754": {
+      "playerId": "9754",
+      "playerName": "Quentin Johnston",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "9756": {
+      "playerId": "9756",
+      "playerName": "Jordan Addison",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "9757": {
+      "playerId": "9757",
+      "playerName": "Kendre Miller",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "9758": {
+      "playerId": "9758",
+      "playerName": "C.J. Stroud",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "9997": {
+      "playerId": "9997",
+      "playerName": "Zay Flowers",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "10213": {
+      "playerId": "10213",
+      "playerName": "Tre Tucker",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 2
+    },
+    "10222": {
+      "playerId": "10222",
+      "playerName": "Jayden Reed",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "10226": {
+      "playerId": "10226",
+      "playerName": "Andrei Iosivas",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 3
+    },
+    "10229": {
+      "playerId": "10229",
+      "playerName": "Rashee Rice",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 3
+    },
+    "10236": {
+      "playerId": "10236",
+      "playerName": "Dalton Kincaid",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 14
+    },
+    "10444": {
+      "playerId": "10444",
+      "playerName": "Cedric Tillman",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "10859": {
+      "playerId": "10859",
+      "playerName": "Sam LaPorta",
+      "salary": 23,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 6
+    },
+    "10937": {
+      "playerId": "10937",
+      "playerName": "Jake Moody",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 10
+    },
+    "11435": {
+      "playerId": "11435",
+      "playerName": "Emanuel Wilson",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 5
+    },
+    "11533": {
+      "playerId": "11533",
+      "playerName": "Brandon Aubrey",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 8
+    },
+    "11539": {
+      "playerId": "11539",
+      "playerName": "Jake Bates",
+      "salary": 2,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 9
+    },
+    "11557": {
+      "playerId": "11557",
+      "playerName": "Joe Milton",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 10
+    },
+    "11559": {
+      "playerId": "11559",
+      "playerName": "Michael Penix",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 7
+    },
+    "11560": {
+      "playerId": "11560",
+      "playerName": "Caleb Williams",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 5
+    },
+    "11563": {
+      "playerId": "11563",
+      "playerName": "Bo Nix",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 9
+    },
+    "11564": {
+      "playerId": "11564",
+      "playerName": "Drake Maye",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 2
+    },
+    "11565": {
+      "playerId": "11565",
+      "playerName": "J.J. McCarthy",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 2
+    },
+    "11566": {
+      "playerId": "11566",
+      "playerName": "Jayden Daniels",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 14
+    },
+    "11569": {
+      "playerId": "11569",
+      "playerName": "Jarquez Hunter",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 10
+    },
+    "11575": {
+      "playerId": "11575",
+      "playerName": "Ray Davis",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 1
+    },
+    "11576": {
+      "playerId": "11576",
+      "playerName": "Braelon Allen",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 6
+    },
+    "11577": {
+      "playerId": "11577",
+      "playerName": "Will Shipley",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 9
+    },
+    "11579": {
+      "playerId": "11579",
+      "playerName": "Audric Estime",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "11581": {
+      "playerId": "11581",
+      "playerName": "MarShawn Lloyd",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 9
+    },
+    "11583": {
+      "playerId": "11583",
+      "playerName": "Jonathon Brooks",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 11
+    },
+    "11584": {
+      "playerId": "11584",
+      "playerName": "Bucky Irving",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 14
+    },
+    "11586": {
+      "playerId": "11586",
+      "playerName": "Blake Corum",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 3
+    },
+    "11589": {
+      "playerId": "11589",
+      "playerName": "Trey Benson",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 1
+    },
+    "11596": {
+      "playerId": "11596",
+      "playerName": "Ben Sinnott",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 12
+    },
+    "11597": {
+      "playerId": "11597",
+      "playerName": "Theo Johnson",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 13
+    },
+    "11600": {
+      "playerId": "11600",
+      "playerName": "Ja'Tavion Sanders",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 8
+    },
+    "11604": {
+      "playerId": "11604",
+      "playerName": "Brock Bowers",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 7
+    },
+    "11610": {
+      "playerId": "11610",
+      "playerName": "Malik Washington",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 7
+    },
+    "11618": {
+      "playerId": "11618",
+      "playerName": "Jalen McMillan",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 10
+    },
+    "11619": {
+      "playerId": "11619",
+      "playerName": "Ja'Lynn Polk",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 7
+    },
+    "11620": {
+      "playerId": "11620",
+      "playerName": "Rome Odunze",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 12
+    },
+    "11623": {
+      "playerId": "11623",
+      "playerName": "Jordan Whittington",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 9
+    },
+    "11624": {
+      "playerId": "11624",
+      "playerName": "Xavier Worthy",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 1
+    },
+    "11626": {
+      "playerId": "11626",
+      "playerName": "Xavier Legette",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 1
+    },
+    "11628": {
+      "playerId": "11628",
+      "playerName": "Marvin Harrison",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 14
+    },
+    "11629": {
+      "playerId": "11629",
+      "playerName": "Devontez Walker",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 6
+    },
+    "11630": {
+      "playerId": "11630",
+      "playerName": "Roman Wilson",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 11
+    },
+    "11631": {
+      "playerId": "11631",
+      "playerName": "Brian Thomas",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 13
+    },
+    "11632": {
+      "playerId": "11632",
+      "playerName": "Malik Nabers",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 9
+    },
+    "11635": {
+      "playerId": "11635",
+      "playerName": "Ladd McConkey",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 2
+    },
+    "11637": {
+      "playerId": "11637",
+      "playerName": "Keon Coleman",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 10
+    },
+    "11638": {
+      "playerId": "11638",
+      "playerName": "Ricky Pearsall",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 12
+    },
+    "11643": {
+      "playerId": "11643",
+      "playerName": "Jaylen Wright",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 5
+    },
+    "11650": {
+      "playerId": "11650",
+      "playerName": "Luke McCaffrey",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 3
+    },
+    "11651": {
+      "playerId": "11651",
+      "playerName": "Isaac Guerendo",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 13
+    },
+    "11655": {
+      "playerId": "11655",
+      "playerName": "Tyrone Tracy",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 3
+    },
+    "11792": {
+      "playerId": "11792",
+      "playerName": "Will Reichard",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 12
+    },
+    "12455": {
+      "playerId": "12455",
+      "playerName": "Brashard Smith",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 6
+    },
+    "12457": {
+      "playerId": "12457",
+      "playerName": "Jaydon Blue",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 8
+    },
+    "12467": {
+      "playerId": "12467",
+      "playerName": "Jordan James",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 2
+    },
+    "12469": {
+      "playerId": "12469",
+      "playerName": "Dylan Sampson",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 13
+    },
+    "12471": {
+      "playerId": "12471",
+      "playerName": "DJ Giddens",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 2
+    },
+    "12476": {
+      "playerId": "12476",
+      "playerName": "Devin Neal",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 14
+    },
+    "12478": {
+      "playerId": "12478",
+      "playerName": "Nick Nash",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 10
+    },
+    "12481": {
+      "playerId": "12481",
+      "playerName": "Cam Skattebo",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 13
+    },
+    "12482": {
+      "playerId": "12482",
+      "playerName": "Savion Williams",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 11
+    },
+    "12483": {
+      "playerId": "12483",
+      "playerName": "Jack Bech",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 9
+    },
+    "12484": {
+      "playerId": "12484",
+      "playerName": "Jayden Higgins",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 7
+    },
+    "12487": {
+      "playerId": "12487",
+      "playerName": "Terrance Ferguson",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 1
+    },
+    "12489": {
+      "playerId": "12489",
+      "playerName": "RJ Harvey",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 5
+    },
+    "12490": {
+      "playerId": "12490",
+      "playerName": "Bhayshul Tuten",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 1
+    },
+    "12492": {
+      "playerId": "12492",
+      "playerName": "Pat Bryant",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 8
+    },
+    "12493": {
+      "playerId": "12493",
+      "playerName": "Oronde Gadsden",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 5
+    },
+    "12495": {
+      "playerId": "12495",
+      "playerName": "Ollie Gordon",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 12
+    },
+    "12497": {
+      "playerId": "12497",
+      "playerName": "Tory Horton",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 5
+    },
+    "12498": {
+      "playerId": "12498",
+      "playerName": "Mason Taylor",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 14
+    },
+    "12499": {
+      "playerId": "12499",
+      "playerName": "Elic Ayomanor",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 4
+    },
+    "12501": {
+      "playerId": "12501",
+      "playerName": "Matthew Golden",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 14
+    },
+    "12502": {
+      "playerId": "12502",
+      "playerName": "Gunnar Helm",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 6
+    },
+    "12504": {
+      "playerId": "12504",
+      "playerName": "Kaleb Johnson",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 9
+    },
+    "12505": {
+      "playerId": "12505",
+      "playerName": "Jalen Royals",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 3
+    },
+    "12506": {
+      "playerId": "12506",
+      "playerName": "Harold Fannin",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 6
+    },
+    "12507": {
+      "playerId": "12507",
+      "playerName": "Omarion Hampton",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 11
+    },
+    "12508": {
+      "playerId": "12508",
+      "playerName": "Jaxson Dart",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 10
+    },
+    "12509": {
+      "playerId": "12509",
+      "playerName": "Tre' Harris",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 12
+    },
+    "12512": {
+      "playerId": "12512",
+      "playerName": "Quinshon Judkins",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 8
+    },
+    "12514": {
+      "playerId": "12514",
+      "playerName": "Emeka Egbuka",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 5
+    },
+    "12516": {
+      "playerId": "12516",
+      "playerName": "Kalel Mullings",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 5
+    },
+    "12517": {
+      "playerId": "12517",
+      "playerName": "Colston Loveland",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 11
+    },
+    "12518": {
+      "playerId": "12518",
+      "playerName": "Tyler Warren",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 10
+    },
+    "12519": {
+      "playerId": "12519",
+      "playerName": "Luther Burden",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 1
+    },
+    "12521": {
+      "playerId": "12521",
+      "playerName": "Elijah Arroyo",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 11
+    },
+    "12522": {
+      "playerId": "12522",
+      "playerName": "Cameron Ward",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 4
+    },
+    "12524": {
+      "playerId": "12524",
+      "playerName": "Shedeur Sanders",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 4
+    },
+    "12526": {
+      "playerId": "12526",
+      "playerName": "Tetairoa McMillan",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 12
+    },
+    "12527": {
+      "playerId": "12527",
+      "playerName": "Ashton Jeanty",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 3
+    },
+    "12529": {
+      "playerId": "12529",
+      "playerName": "TreVeyon Henderson",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 1
+    },
+    "12530": {
+      "playerId": "12530",
+      "playerName": "Travis Hunter",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 6
+    },
+    "12531": {
+      "playerId": "12531",
+      "playerName": "Trevor Etienne",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 10
+    },
+    "12533": {
+      "playerId": "12533",
+      "playerName": "Jacory Croskey-Merritt",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 7
+    },
+    "12534": {
+      "playerId": "12534",
+      "playerName": "Kyle Monangai",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 13
+    },
+    "12535": {
+      "playerId": "12535",
+      "playerName": "Isaac TeSlaa",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 7
+    },
+    "12536": {
+      "playerId": "12536",
+      "playerName": "Jaylin Noel",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 13
+    },
+    "12539": {
+      "playerId": "12539",
+      "playerName": "Arian Smith",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 10
+    },
+    "12540": {
+      "playerId": "12540",
+      "playerName": "Chimere Dike",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 3
+    },
+    "12541": {
+      "playerId": "12541",
+      "playerName": "Dont'e Thornton",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 14
+    },
+    "12542": {
+      "playerId": "12542",
+      "playerName": "Efton Chism",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 11
+    },
+    "12547": {
+      "playerId": "12547",
+      "playerName": "Kyle Williams",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 3
+    },
+    "12634": {
+      "playerId": "12634",
+      "playerName": "Jordan Watkins",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 7
+    },
+    "12641": {
+      "playerId": "12641",
+      "playerName": "Jaylin Lane",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 4
+    },
+    "12670": {
+      "playerId": "12670",
+      "playerName": "KeAndre Lambert-Smith",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 6
+    },
+    "12711": {
+      "playerId": "12711",
+      "playerName": "Tyler Loop",
+      "salary": 1,
+      "yearsTotal": 3,
+      "yearsRemaining": 3,
+      "type": "elc",
+      "rosterId": 9
+    },
+    "HOU": {
+      "playerId": "HOU",
+      "playerName": "Houston Texans",
+      "salary": 6,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 1
+    },
+    "ARI": {
+      "playerId": "ARI",
+      "playerName": "Arizona Cardinals",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 2
+    },
+    "SF": {
+      "playerId": "SF",
+      "playerName": "San Francisco 49ers",
+      "salary": 3,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 3
+    },
+    "MIN": {
+      "playerId": "MIN",
+      "playerName": "Minnesota Vikings",
+      "salary": 5,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 4
+    },
+    "CHI": {
+      "playerId": "CHI",
+      "playerName": "Chicago Bears",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 5
+    },
+    "KC": {
+      "playerId": "KC",
+      "playerName": "Kansas City Chiefs",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 6
+    },
+    "LAR": {
+      "playerId": "LAR",
+      "playerName": "Los Angeles Rams",
+      "salary": 2,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "auction",
+      "rosterId": 6
+    },
+    "CLE": {
+      "playerId": "CLE",
+      "playerName": "Cleveland Browns",
+      "salary": 2,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "DET": {
+      "playerId": "DET",
+      "playerName": "Detroit Lions",
+      "salary": 2,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 7
+    },
+    "BUF": {
+      "playerId": "BUF",
+      "playerName": "Buffalo Bills",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "WAS": {
+      "playerId": "WAS",
+      "playerName": "Washington Commanders",
+      "salary": 3,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 8
+    },
+    "DEN": {
+      "playerId": "DEN",
+      "playerName": "Denver Broncos",
+      "salary": 1,
+      "yearsTotal": 2,
+      "yearsRemaining": 2,
+      "type": "elc",
+      "rosterId": 9
+    },
+    "TB": {
+      "playerId": "TB",
+      "playerName": "Tampa Bay Buccaneers",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 9
+    },
+    "PIT": {
+      "playerId": "PIT",
+      "playerName": "Pittsburgh Steelers",
+      "salary": 9,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 10
+    },
+    "PHI": {
+      "playerId": "PHI",
+      "playerName": "Philadelphia Eagles",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 11
+    },
+    "BAL": {
+      "playerId": "BAL",
+      "playerName": "Baltimore Ravens",
+      "salary": 8,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "LAC": {
+      "playerId": "LAC",
+      "playerName": "Los Angeles Chargers",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 12
+    },
+    "GB": {
+      "playerId": "GB",
+      "playerName": "Green Bay Packers",
+      "salary": 2,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 13
+    },
+    "NE": {
+      "playerId": "NE",
+      "playerName": "New England Patriots",
+      "salary": 1,
+      "yearsTotal": 1,
+      "yearsRemaining": 1,
+      "type": "auction",
+      "rosterId": 14
+    }
+  },
+  "buyouts": {
+    "1479": {
+      "playerId": "1479",
+      "playerName": "Keenan Allen",
+      "amount": 5,
+      "yearsRemaining": 2,
+      "originalSalary": 12,
+      "rosterId": 6
+    },
+    "6768": {
+      "playerId": "6768",
+      "playerName": "Tua Tagovailoa",
+      "amount": 5.5,
+      "yearsRemaining": 2,
+      "originalSalary": 13,
+      "rosterId": 6
+    }
+  }
+}
+
