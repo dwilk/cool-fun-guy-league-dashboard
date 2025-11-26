@@ -52,6 +52,23 @@ export default async function TeamPage({ params }: PageProps) {
       isReserve,
       isTaxi,
     };
+  }).sort((a, b) => {
+    const aHasContract = a.contract ? 1 : 0;
+    const bHasContract = b.contract ? 1 : 0;
+
+    if (aHasContract != bHasContract) {
+      return bHasContract - aHasContract;
+    }
+
+    if (a.isStarter != b.isStarter) {
+      return a.isStarter ? -1 : 1;
+    }
+
+    if (a.isReserve != b.isReserve) {
+      return a.isReserve ? 1 : -1;
+    }
+
+    return 0;
   });
 
   // Calculate contract year allocation
