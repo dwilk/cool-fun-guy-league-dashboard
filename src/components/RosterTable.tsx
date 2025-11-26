@@ -8,12 +8,14 @@ import {
   getContractTypeColor,
   calculateBuyout,
 } from '@/lib/contracts';
+import { PlayerAcquisition, AcquisitionMethod } from '@/lib/transactions';
 
 interface RosterTableProps {
   players: Array<{
     player: SleeperPlayer | null;
     playerId: string;
     contract: PlayerContract | null;
+    acquisition?: PlayerAcquisition;
     isStarter: boolean;
     isReserve: boolean;
     isTaxi: boolean;
@@ -30,6 +32,24 @@ const POSITION_ORDER: Record<string, number> = {
   TE: 4,
   K: 5,
   DEF: 6,
+};
+
+const ACQUISITION_LABELS: Record<AcquisitionMethod, string> = {
+  waiver: 'Waiver',
+  free_agent: 'Free Agent',
+  trade: 'Trade',
+  commissioner: 'Commissioner',
+  draft: 'Draft',
+  unknown: 'Acquired',
+};
+
+const ACQUISITION_STYLES: Record<AcquisitionMethod, string> = {
+  waiver: 'bg-fuchsia-500/20 text-fuchsia-300 border-fuchsia-500/30',
+  free_agent: 'bg-blue-500/20 text-blue-300 border-blue-500/30',
+  trade: 'bg-orange-500/20 text-orange-300 border-orange-500/30',
+  commissioner: 'bg-red-500/20 text-red-300 border-red-500/30',
+  draft: 'bg-emerald-500/20 text-emerald-300 border-emerald-500/30',
+  unknown: 'bg-gray-500/20 text-gray-300 border-gray-500/30',
 };
 
 export function RosterTable({ players }: RosterTableProps) {
@@ -111,12 +131,15 @@ export function RosterTable({ players }: RosterTableProps) {
                 Type
               </th>
               <th className="px-4 py-3 text-left text-xs font-medium text-dynasty-silver uppercase tracking-wider">
+                Acquired Via
+              </th>
+              <th className="px-4 py-3 text-left text-xs font-medium text-dynasty-silver uppercase tracking-wider">
                 Status
               </th>
             </tr>
           </thead>
           <tbody className="divide-y divide-dynasty-border">
-            {sortedPlayers.map(({ player, playerId, contract, isStarter, isReserve, isTaxi }) => {
+            {sortedPlayers.map(({ player, playerId, contract, acquisition, isStarter, isReserve, isTaxi }) => {
               const buyout = contract ? calculateBuyout(contract) : null;
               const isShowingBuyout = showBuyoutFor === playerId;
 
@@ -204,18 +227,30 @@ export function RosterTable({ players }: RosterTableProps) {
                     {contract?.signedThrough || '—'}
                   </td>
 
-                  {/* Contract Type / Acquisition */}
+                  {/* Contract Type */}
                   <td className="px-4 py-3">
                     {contract ? (
-                      contract.acquisitionType === 'waiver' ? (
-                        <span className="inline-flex px-2 py-1 text-xs font-medium rounded-full border bg-fuchsia-500/20 text-fuchsia-300 border-fuchsia-500/30">
-                          Waiver Wire
-                        </span>
-                      ) : (
-                        <span className={`inline-flex px-2 py-1 text-xs font-medium rounded-full border ${getContractTypeColor(contract.type)}`}>
-                          {getContractTypeLabel(contract.type)}
-                        </span>
-                      )
+                      <span className={`inline-flex px-2 py-1 text-xs font-medium rounded-full border ${getContractTypeColor(contract.type)}`}>
+                        {getContractTypeLabel(contract.type)}
+                      </span>
+                    ) : acquisition ? (
+                      <span className={`inline-flex px-2 py-1 text-xs font-medium rounded-full border ${ACQUISITION_STYLES[acquisition.method]}`}>
+                        {ACQUISITION_LABELS[acquisition.method]}
+                      </span>
+                    ) : (
+                      <span className="text-dynasty-silver">—</span>
+                    )}
+                  </td>
+
+                  {/* Acquired Via */}
+                  <td className="px-4 py-3 text-sm text-dynasty-silver">
+                    {acquisition ? (
+                      <div className="flex flex-col">
+                        <span className="text-white">{ACQUISITION_LABELS[acquisition.method]}</span>
+                        <span className="text-xs text-dynasty-silver/70">Week {acquisition.week ?? '—'}</span>
+                      </div>
+                    ) : contract ? (
+                      <span className="text-dynasty-silver">Signed</span>
                     ) : (
                       <span className="text-dynasty-silver">—</span>
                     )}

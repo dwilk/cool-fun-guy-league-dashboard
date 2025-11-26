@@ -6,6 +6,7 @@ import { RosterTable } from '@/components/RosterTable';
 import { CapSummary } from '@/components/CapSummary';
 import { AvatarImage } from '@/components/PlayerImage';
 import { calculateCapHit, getRosterContracts, CAP_RULES } from '@/lib/contracts';
+import { getPlayerAcquisitionMap } from '@/lib/transactions';
 
 export const dynamic = 'force-dynamic';
 
@@ -29,9 +30,10 @@ export default async function TeamPage({ params }: PageProps) {
   }
 
   // Fetch contract data (now async)
-  const [contracts, capHit] = await Promise.all([
+  const [contracts, capHit, acquisitionMap] = await Promise.all([
     getRosterContracts(rosterId),
-    calculateCapHit(rosterId)
+    calculateCapHit(rosterId),
+    getPlayerAcquisitionMap(league.leg || league.settings?.leg || 18),
   ]);
   
   const contractMap = new Map(contracts.map(c => [c.playerId, c]));
@@ -40,6 +42,7 @@ export default async function TeamPage({ params }: PageProps) {
   const playerList = (roster.players || []).map(playerId => {
     const player = players[playerId] || null;
     const contract = contractMap.get(playerId) || null;
+    const acquisition = acquisitionMap.get(playerId);
     const isStarter = roster.starters?.includes(playerId) || false;
     const isReserve = roster.reserve?.includes(playerId) || false;
     const isTaxi = roster.taxi?.includes(playerId) || false;
@@ -48,13 +51,14 @@ export default async function TeamPage({ params }: PageProps) {
       player,
       playerId,
       contract,
+      acquisition,
       isStarter,
       isReserve,
       isTaxi,
     };
   }).sort((a, b) => {
-    const aHasContract = a.contract && a.contract.acquisitionType !== 'waiver' ? 1 : 0;
-    const bHasContract = b.contract && b.contract.acquisitionType !== 'waiver' ? 1 : 0;
+    const aHasContract = a.contract ? 1 : 0;
+    const bHasContract = b.contract ? 1 : 0;
 
     if (aHasContract != bHasContract) {
       return bHasContract - aHasContract;
