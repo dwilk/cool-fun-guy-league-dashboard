@@ -11,6 +11,7 @@ export interface PlayerContract {
   yearsRemaining: number;
   signedThrough?: string;
   type: ContractType;
+  acquisitionType: 'contract' | 'waiver';
   rosterId: number;
 }
 
@@ -141,6 +142,8 @@ export async function fetchContractsFromSheets(): Promise<ContractsData> {
       type = 'elc';
     }
 
+    const acquisitionType: 'contract' | 'waiver' = signedThrough ? 'contract' : 'waiver';
+
     contracts[playerId] = {
       playerId,
       playerName,
@@ -149,6 +152,7 @@ export async function fetchContractsFromSheets(): Promise<ContractsData> {
       yearsRemaining,
       signedThrough,
       type,
+      acquisitionType,
       rosterId
     };
   }

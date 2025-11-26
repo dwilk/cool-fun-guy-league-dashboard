@@ -53,8 +53,8 @@ export default async function TeamPage({ params }: PageProps) {
       isTaxi,
     };
   }).sort((a, b) => {
-    const aHasContract = a.contract ? 1 : 0;
-    const bHasContract = b.contract ? 1 : 0;
+    const aHasContract = a.contract && a.contract.acquisitionType !== 'waiver' ? 1 : 0;
+    const bHasContract = b.contract && b.contract.acquisitionType !== 'waiver' ? 1 : 0;
 
     if (aHasContract != bHasContract) {
       return bHasContract - aHasContract;

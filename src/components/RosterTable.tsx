@@ -204,12 +204,18 @@ export function RosterTable({ players }: RosterTableProps) {
                     {contract?.signedThrough || '—'}
                   </td>
 
-                  {/* Contract Type */}
+                  {/* Contract Type / Acquisition */}
                   <td className="px-4 py-3">
                     {contract ? (
-                      <span className={`inline-flex px-2 py-1 text-xs font-medium rounded-full border ${getContractTypeColor(contract.type)}`}>
-                        {getContractTypeLabel(contract.type)}
-                      </span>
+                      contract.acquisitionType === 'waiver' ? (
+                        <span className="inline-flex px-2 py-1 text-xs font-medium rounded-full border bg-fuchsia-500/20 text-fuchsia-300 border-fuchsia-500/30">
+                          Waiver Wire
+                        </span>
+                      ) : (
+                        <span className={`inline-flex px-2 py-1 text-xs font-medium rounded-full border ${getContractTypeColor(contract.type)}`}>
+                          {getContractTypeLabel(contract.type)}
+                        </span>
+                      )
                     ) : (
                       <span className="text-dynasty-silver">—</span>
                     )}
