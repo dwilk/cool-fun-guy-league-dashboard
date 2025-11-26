@@ -154,7 +154,7 @@ export default async function RulesPage() {
               <div className="bg-yellow-500/10 border border-yellow-500/30 rounded-lg p-4">
                 <h4 className="text-yellow-400 font-semibold mb-2">Injured Reserve</h4>
                 <p className="text-dynasty-silver text-sm">
-                  Players eligible for IR: Red flag shows "IR, Long Term IR, Short Term IR, Out or Out Indefinitely."
+                  Players eligible for IR: Red flag shows &ldquo;IR, Long Term IR, Short Term IR, Out or Out Indefinitely.&rdquo;
                   Only players ruled out for the season can free up salary cap space pre-auction.
                 </p>
               </div>
@@ -393,7 +393,7 @@ export default async function RulesPage() {
                 <ul className="space-y-2 text-dynasty-silver">
                   <li>• Maximum term: <strong className="text-white">3 years</strong></li>
                   <li>• Players in final year of arbitration deal must return to auction</li>
-                  <li>• Prospects on expiring ELCs get FREE arbitration (doesn't count toward 5 tags)</li>
+                  <li>• Prospects on expiring ELCs get FREE arbitration (doesn&apos;t count toward 5 tags)</li>
                   <li>• Trading arbitrated players is allowed</li>
                   <li>• Unused tags do NOT carry over</li>
                 </ul>
@@ -418,7 +418,7 @@ export default async function RulesPage() {
                 <h3 className="text-blue-400 font-semibold mb-2">IF Rule</h3>
                 <p className="text-dynasty-silver text-sm">
                   If a player is ruled out last minute, you can announce in GroupMe: 
-                  "Start [Player B] IF [Player A] is out" before game time.
+                  &ldquo;Start [Player B] IF [Player A] is out&rdquo; before game time.
                 </p>
               </div>
 
@@ -426,7 +426,7 @@ export default async function RulesPage() {
                 <h3 className="text-purple-400 font-semibold mb-2">Sam Rule (QB Limit)</h3>
                 <p className="text-dynasty-silver text-sm">
                   Maximum <strong className="text-white">3 QBs on active roster</strong>, 5 total including practice squad.
-                  Exception: QBs on bye or IR don't count toward limit.
+                  Exception: QBs on bye or IR don&apos;t count toward limit.
                 </p>
               </div>
 
