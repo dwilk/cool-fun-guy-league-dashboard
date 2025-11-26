@@ -9,6 +9,7 @@ export interface PlayerContract {
   salary: number;
   yearsTotal: number;
   yearsRemaining: number;
+  signedThrough?: string;
   type: ContractType;
   rosterId: number;
 }
@@ -146,6 +147,7 @@ export async function fetchContractsFromSheets(): Promise<ContractsData> {
       salary,
       yearsTotal: yearsRemaining,
       yearsRemaining,
+      signedThrough,
       type,
       rosterId
     };

@@ -105,6 +105,9 @@ export function RosterTable({ players }: RosterTableProps) {
               <SortHeader field="salary">Salary</SortHeader>
               <SortHeader field="years">Years</SortHeader>
               <th className="px-4 py-3 text-left text-xs font-medium text-dynasty-silver uppercase tracking-wider">
+                Signed Through
+              </th>
+              <th className="px-4 py-3 text-left text-xs font-medium text-dynasty-silver uppercase tracking-wider">
                 Type
               </th>
               <th className="px-4 py-3 text-left text-xs font-medium text-dynasty-silver uppercase tracking-wider">
@@ -194,6 +197,11 @@ export function RosterTable({ players }: RosterTableProps) {
                         /{contract?.yearsTotal || '—'}
                       </span>
                     </span>
+                  </td>
+
+                  {/* Signed Through */}
+                  <td className="px-4 py-3 text-dynasty-silver">
+                    {contract?.signedThrough || '—'}
                   </td>
 
                   {/* Contract Type */}
