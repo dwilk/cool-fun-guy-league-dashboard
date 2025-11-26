@@ -44,6 +44,12 @@ export function Header({ leagueName = 'Cool Fun Guy League', season }: HeaderPro
             >
               Teams
             </Link>
+            <Link
+              href="/rules"
+              className="text-sm text-dynasty-silver hover:text-white transition-colors"
+            >
+              Rules
+            </Link>
             <button
               onClick={handleLogout}
               className="text-sm text-dynasty-silver hover:text-red-400 transition-colors"
@@ -56,6 +62,7 @@ export function Header({ leagueName = 'Cool Fun Guy League', season }: HeaderPro
     </header>
   );
 }
+
 
 
 
